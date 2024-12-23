@@ -5,7 +5,7 @@ from colorama import Fore
 colorama.init(autoreset=True)
 
 # Password for access
-PASSWORD = "1509"  # Replace this with your desired password
+PASSWORD = "MxM Tools"  # Replace this with your desired password
 
 # Function for password verification
 def check_password():
